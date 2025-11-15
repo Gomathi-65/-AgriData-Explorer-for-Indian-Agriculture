@@ -14,19 +14,29 @@ Power BI – Interactive dashboard
 
 📊 Key Insights
 Rice production dominated by Punjab, West Bengal, and UP.
+
 Wheat yield improvements in specific districts over decades.
+
 Cotton concentrated in 5 states (Maharashtra, Gujarat leading).
+
 Groundnut – Gujarat leads in 2017.
+
 Rice vs Wheat comparison reveals crop shifts over time.
 
 📂 Repository Structure
 EDA.ipynb → Python notebook for data cleaning & EDA
+
 agriculture_queries.sql → 10 SQL queries
+
 agriculture_dashboard.pbix → Power BI dashboard
+
 dashboard_screenshots/ → PNG snapshots of visuals
 
 🚀 How to Run
 Clone this repo
+
 Load cleaned_agriculture_data.csv into MySQL (agriculture_db)
+
 Run queries from agriculture_queries.sql
+
 Open agriculture_dashboard.pbix in Power BI Desktop
