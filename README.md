@@ -33,6 +33,7 @@ agriculture_dashboard.pbix → Power BI dashboard
 dashboard_screenshots/ → PNG snapshots of visuals
 
 🚀 How to Run
+
 Clone this repo
 
 Load cleaned_agriculture_data.csv into MySQL (agriculture_db)
