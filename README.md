@@ -5,8 +5,11 @@ Agricultural data in India is complex and scattered, making it difficult for far
 This project integrates 50 years of agriculture data (1966–2017) to analyze crop production, yield, and cultivated area.
 
 ⚙️ Tools & Technologies
+
 Python (Pandas, Matplotlib, Seaborn) – EDA
+
 MySQL – Data storage & SQL analysis (10 queries)
+
 Power BI – Interactive dashboard
 
 📊 Key Insights
